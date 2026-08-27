@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.14.0](https://github.com/rehydra-ai/rehydra-sdk/compare/v0.13.0...v0.14.0) (2026-08-27)
+
+
+### Features
+
+* support alphanumeric tag IDs ([#93](https://github.com/rehydra-ai/rehydra-sdk/issues/93)) ([8bf2108](https://github.com/rehydra-ai/rehydra-sdk/commit/8bf2108a7f7091dcb62378e2208dd2286ef85ed0))
+
 ## [0.13.0](https://github.com/rehydra-ai/rehydra-sdk/compare/v0.12.0...v0.13.0) (2026-08-09)
 
 
